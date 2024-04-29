@@ -1,5 +1,4 @@
 # Weather-App-Nextjs
-# Weather-App-Nextjs
 A website where you can check and stay updated on current weather conditions and forecasts for locations worldwide.
 
 # technologies used
