@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.container{
+  height: 100vh;
+  color: #fff;
+}
+.section{
+  background-image: url('./images/sunset.jpg');
+  height: fit-content;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+}
+
+
+
